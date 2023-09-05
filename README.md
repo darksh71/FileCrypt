@@ -44,8 +44,3 @@ As the sole developer of this project, my contributions included:
 - Designing the user interface.
 - Implementing the file encryption and decryption functionalities.
 - Testing and refining the application.
-┏━━━┓┏┓
-┃┏━┓┣┛┃
-┗┛┏┛┣┓┃
-╋╋┃┏┛┃┃
-╋╋┃┃┏┛┗┓
